@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rust
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: For personal messages: drcodfish.certainly882@passinbox.com for reaching out to the company: warprocket.parabola419@passinbox.com
+- 📫 How to reach me: For personal messages: drcodfish.certainly882@passinbox.com for reaching out to the company: warpcomputing.parabola419@passinbox.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can yoyo.
 
