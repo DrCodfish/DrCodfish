@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrCodfish
+- 👋 Hi, I’m @DrCodfish, owner of Warp Rocket
 - 👀 I’m interested in Rust
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on open source projects
