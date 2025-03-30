@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DrCodfish, owner of Warp Computing™
-- 👀 I’m interested in Rust
-- 🌱 I’m currently learning Rust
+- 👋 Hi, I’m @DrCodfish
+- 👀 I’m interested in Go
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: For personal messages: drcodfish.certainly882@passinbox.com for reaching out to the company: warp-computing.avenue421@passinbox.com
+- 📫 How to reach me: drcodfish.certainly882@passinbox.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can yoyo.
 
