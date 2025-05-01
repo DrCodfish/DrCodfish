@@ -2,7 +2,7 @@
 - 👀 I’m interested in Go
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: drcodfish.certainly882@passinbox.com
+- 📫 How to reach me: TheRealDrCodfish@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can yoyo.
 
